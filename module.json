@@ -1,7 +1,7 @@
 {
   "id": "variachels-compendium",
   "title": "Variachel's Compendium",
-  "version": "1.5.0",
+  "version": "1.5.5",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -15,7 +15,7 @@
   ],
   "url": "https://github.com/variachel/variachels-compendium",
   "manifest": "https://github.com/variachel/variachels-compendium/releases/latest/download/module.json",
-  "download": "https://github.com/variachel/variachels-compendium/archive/v1.5.0.zip",
+  "download": "https://github.com/variachel/variachels-compendium/archive/v1.5.5.zip",
   "packs": [
     {
       "name": "actors",
@@ -72,32 +72,18 @@
       },
       "system": "pf2e",
       "flags": {}
-    },
-    {
-      "name": "scenes",
-      "label": "Scenes",
-      "path": "packs/scenes",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "NONE",
-        "TRUSTED": "NONE",
-        "ASSISTANT": "NONE",
-        "GAMEMASTER": "OWNER"
-      },
-      "system": "pf2e",
-      "flags": {}
     }
   ],
   "packFolders": [
     {
       "name": "Variachel's Compendium",
-      "sorting": "m",
+      "sorting": "a",
+      "color": "#446b4e",
       "packs": [
         "actors",
-        "journals",
         "items",
-        "macros",
-        "scenes"
+        "journals",
+        "macros"
       ]
     }
   ],
