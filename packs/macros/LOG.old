@@ -1,15 +1,8 @@
-2024/07/12-13:36:26.062495 30c1a5000 Recovering log #680
-2024/07/12-13:36:26.062960 30c1a5000 Delete type=0 #680
-2024/07/12-13:36:26.063006 30c1a5000 Delete type=3 #678
-2024/07/12-15:07:19.301698 305117000 Level-0 table #685: started
-2024/07/12-15:07:19.302261 305117000 Level-0 table #685: 10644 bytes OK
-2024/07/12-15:07:19.302614 305117000 Delete type=0 #683
-2024/07/12-15:07:19.305540 305117000 Manual compaction at level-0 from '!macros!1wSS9bO8fTdekd0J' @ 72057594037927935 : 1 .. '!macros!qqZI57pubLcMT41F' @ 0 : 0; will stop at (end)
-2024/07/12-15:07:19.305565 305117000 Manual compaction at level-1 from '!macros!1wSS9bO8fTdekd0J' @ 72057594037927935 : 1 .. '!macros!qqZI57pubLcMT41F' @ 0 : 0; will stop at '!macros!qqZI57pubLcMT41F' @ 42 : 1
-2024/07/12-15:07:19.305570 305117000 Compacting 1@1 + 1@2 files
-2024/07/12-15:07:19.306151 305117000 Generated table #686@1: 21 keys, 10500 bytes
-2024/07/12-15:07:19.306162 305117000 Compacted 1@1 + 1@2 files => 10500 bytes
-2024/07/12-15:07:19.306225 305117000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/12-15:07:19.306301 305117000 Delete type=2 #405
-2024/07/12-15:07:19.306889 305117000 Delete type=2 #685
-2024/07/12-15:07:19.308324 305117000 Manual compaction at level-1 from '!macros!qqZI57pubLcMT41F' @ 42 : 1 .. '!macros!qqZI57pubLcMT41F' @ 0 : 0; will stop at (end)
+2026/08/21-16:08:22.562672 1755f3000 Recovering log #1081
+2026/08/21-16:08:22.563064 1755f3000 Delete type=0 #1081
+2026/08/21-16:08:22.563218 1755f3000 Delete type=3 #1080
+2026/08/21-16:09:11.219464 16d3ab000 Level-0 table #1085: started
+2026/08/21-16:09:11.219585 16d3ab000 Level-0 table #1085: 0 bytes OK
+2026/08/21-16:09:11.219799 16d3ab000 Delete type=0 #1083
+2026/08/21-16:09:11.249568 16d3ab000 Manual compaction at level-0 from '!macros!1wSS9bO8fTdekd0J' @ 72057594037927935 : 1 .. '!macros!qqZI57pubLcMT41F' @ 0 : 0; will stop at (end)
+2026/08/21-16:09:11.281881 16d3ab000 Manual compaction at level-1 from '!macros!1wSS9bO8fTdekd0J' @ 72057594037927935 : 1 .. '!macros!qqZI57pubLcMT41F' @ 0 : 0; will stop at (end)
